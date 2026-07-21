@@ -1,0 +1,11 @@
+# Core numerical / plotting dependencies
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.4
+
+# DM3 microscopy file readers (at least one recommended)
+hyperspy>=1.7
+ncempy>=1.10
+
+# Development / testing (optional)
+pytest>=7.0
